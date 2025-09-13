@@ -1,0 +1,144 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "13/09/2025 14:00:03",
+      "sequence" : 750,
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "INSERT",
+      "table_name" : "DIC_EXPRESSAO",
+      "tag_name" : "CMDK",
+      "tasy_user" : "cmdk_adm",
+      "guid" : "ccb7154e-74eb-4f88-b343-b6479ab5b234"
+    },
+    "server_info" : {
+      "charset" : "BRAZILIAN PORTUGUESE_BRAZIL.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "YY345571",
+      "os_user" : "320115671",
+      "tasy_user" : "cmdk_adm"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "CD_EXPRESSAO",
+      "data_type" : "NUMBER",
+      "new_value" : 1139576,
+      "old_value" : null
+    } ],
+    "column_values" : [ {
+      "column_name" : "CD_EXPRESSAO",
+      "data_type" : "NUMBER",
+      "new_value" : 1139576,
+      "old_value" : null
+    }, {
+      "column_name" : "NM_USUARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "cmdk_adm",
+      "old_value" : null
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : "13/09/2025 13:56:31",
+      "old_value" : null
+    }, {
+      "column_name" : "DS_GLOSSARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "luis teste 4dadada dadada",
+      "old_value" : null
+    }, {
+      "column_name" : "DT_ATUALIZACAO_NREC",
+      "data_type" : "DATE",
+      "new_value" : "13/09/2025 13:56:31",
+      "old_value" : null
+    }, {
+      "column_name" : "NM_USUARIO_NREC",
+      "data_type" : "VARCHAR2",
+      "new_value" : "cmdk_adm",
+      "old_value" : null
+    } ]
+  }, {
+    "event_info" : {
+      "date" : "13/09/2025 14:00:03",
+      "sequence" : 751,
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "INSERT",
+      "table_name" : "DIC_EXPRESSAO_CUSTOM",
+      "tag_name" : "CMDK",
+      "tasy_user" : "cmdk_adm",
+      "guid" : "aba30f5c-53af-43c9-bc5d-f766d5d6634e"
+    },
+    "server_info" : {
+      "charset" : "BRAZILIAN PORTUGUESE_BRAZIL.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "YY345571",
+      "os_user" : "320115671",
+      "tasy_user" : "cmdk_adm"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 19415,
+      "old_value" : null
+    } ],
+    "column_values" : [ {
+      "column_name" : "DS_IDIOMA",
+      "data_type" : "VARCHAR2",
+      "new_value" : "en",
+      "old_value" : null
+    }, {
+      "column_name" : "IE_SITUACAO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "A",
+      "old_value" : null
+    }, {
+      "column_name" : "DS_LOCALE",
+      "data_type" : "VARCHAR2",
+      "new_value" : "en_US",
+      "old_value" : null
+    }, {
+      "column_name" : "DS_EXPRESSAO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "luis teste 4",
+      "old_value" : null
+    }, {
+      "column_name" : "CD_EXPRESSAO",
+      "data_type" : "NUMBER",
+      "new_value" : 1139576,
+      "old_value" : null
+    }, {
+      "column_name" : "DS_LAYER",
+      "data_type" : "VARCHAR2",
+      "new_value" : "CORE.CMDK_LTDA",
+      "old_value" : null
+    }, {
+      "column_name" : "DT_ATUALIZACAO_NREC",
+      "data_type" : "DATE",
+      "new_value" : "13/09/2025 13:56:33",
+      "old_value" : null
+    }, {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 19415,
+      "old_value" : null
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : "13/09/2025 13:56:33",
+      "old_value" : null
+    }, {
+      "column_name" : "NM_USUARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "cmdk_adm",
+      "old_value" : null
+    }, {
+      "column_name" : "NM_USUARIO_NREC",
+      "data_type" : "VARCHAR2",
+      "new_value" : "cmdk_adm",
+      "old_value" : null
+    } ]
+  } ]
+}
