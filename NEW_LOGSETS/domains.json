@@ -1,0 +1,39 @@
+{
+  "VALOR_DOMINIO" : [ {
+    "$operation" : "MERGE",
+    "CD_DOMINIO" : "8288",
+    "VL_DOMINIO" : "1",
+    "NM_USUARIO" : "lpfreitas",
+    "CD_EXP_VALOR_DOMINIO" : "1",
+    "DS_VALOR_DOMINIO" : "Test9999999",
+    "DT_ATUALIZACAO" : "19/11/2025 16:18:32",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "DELETE",
+    "CD_DOMINIO" : "8288",
+    "VL_DOMINIO" : "10",
+    "NM_USUARIO" : "lpfreitas",
+    "CD_EXP_VALOR_DOMINIO" : "10",
+    "DS_VALOR_DOMINIO" : "NEONATAL ICU",
+    "DT_ATUALIZACAO" : "19/11/2025 16:21:46",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "CREATE",
+    "CD_DOMINIO" : "8288",
+    "VL_DOMINIO" : "11",
+    "NM_USUARIO" : "lpfreitas",
+    "CD_EXP_VALOR_DOMINIO" : "2",
+    "DS_VALOR_DOMINIO" : "ANGIOLOGY",
+    "DT_ATUALIZACAO" : "19/11/2025 15:54:48",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "CREATE",
+    "CD_DOMINIO" : "8288",
+    "VL_DOMINIO" : "12",
+    "NM_USUARIO" : "lpfreitas",
+    "CD_EXP_VALOR_DOMINIO" : "5",
+    "DS_VALOR_DOMINIO" : "OBSTETRICS",
+    "DT_ATUALIZACAO" : "19/11/2025 16:11:44",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
