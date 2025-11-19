@@ -1,0 +1,47 @@
+{
+  "DIC_EXPRESSAO" : [ {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "02/10/2025 15:26:19",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "CREATE",
+      "DT_ATUALIZACAO_NREC" : "02/10/2025 15:26:19",
+      "DS_LOCALE" : "en_US",
+      "DS_IDIOMA" : "en",
+      "NR_SEQUENCIA" : "1140815",
+      "NM_USUARIO" : "lpfreitas",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "lpfreitas",
+      "CD_EXPRESSAO" : "1140815",
+      "DS_EXPRESSAO" : "teste novo expression",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "02/10/2025 15:26:19"
+    } ],
+    "DS_GLOSSARIO" : "teste novo expression",
+    "NM_USUARIO" : "lpfreitas",
+    "NM_USUARIO_NREC" : "lpfreitas",
+    "CD_EXPRESSAO" : "1140815",
+    "DT_ATUALIZACAO" : "02/10/2025 15:26:19"
+  }, {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "10/11/2025 18:43:19",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "CREATE",
+      "DT_ATUALIZACAO_NREC" : "10/11/2025 18:43:19",
+      "DS_LOCALE" : "en_US",
+      "DS_IDIOMA" : "en",
+      "NR_SEQUENCIA" : "1143303",
+      "NM_USUARIO" : "lpfreitas",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "lpfreitas",
+      "CD_EXPRESSAO" : "1143303",
+      "DS_EXPRESSAO" : "edstrfs a",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "10/11/2025 18:43:19"
+    } ],
+    "DS_GLOSSARIO" : "dadad dafadadasdasdad",
+    "NM_USUARIO" : "lpfreitas",
+    "NM_USUARIO_NREC" : "lpfreitas",
+    "CD_EXPRESSAO" : "1143303",
+    "DT_ATUALIZACAO" : "10/11/2025 18:43:19"
+  } ]
+}
