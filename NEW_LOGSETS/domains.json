@@ -1,0 +1,25 @@
+{
+  "VALOR_DOMINIO" : [ {
+    "$operation" : "CREATE",
+    "CD_DOMINIO" : "8288",
+    "VL_DOMINIO" : "1",
+    "NM_USUARIO" : "cmdk_adm",
+    "CD_EXP_VALOR_DOMINIO" : "2",
+    "DS_VALOR_DOMINIO" : "ANGIOLOGY",
+    "DT_ATUALIZACAO" : "08/12/2025 16:57:48",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ],
+  "VALOR_DOMINIO_CUSTOM" : [ {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "08/12/2025 16:59:38",
+    "VL_DOMAIN" : "2",
+    "DS_DOMAIN_CLIENT_VALUE" : "",
+    "NR_SEQUENCIA" : "4398",
+    "NM_USUARIO" : "cmdk_adm",
+    "IE_SITUACAO" : "A",
+    "NM_USUARIO_NREC" : "cmdk_adm",
+    "CD_DOMAIN" : "8288",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "CD_EXP_DOMAIN_VALUE" : "2"
+  } ]
+}
