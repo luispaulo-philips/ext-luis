@@ -1,0 +1,24 @@
+{
+  "DOMINIO" : [ {
+    "$operation" : "CREATE",
+    "CD_EXP_DESC_DOMINIO" : "1",
+    "CD_DOMINIO" : "23810",
+    "NM_DOMINIO" : "teste",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "lpfreitas",
+    "DS_DOMINIO" : "teste",
+    "CD_EXP_DOMINIO" : "1",
+    "VALOR_DOMINIO" : [ {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "23810",
+      "VL_DOMINIO" : "1",
+      "NM_USUARIO" : "lpfreitas",
+      "CD_EXP_VALOR_DOMINIO" : "2",
+      "DS_VALOR_DOMINIO" : "ANGIOLOGIA",
+      "DT_ATUALIZACAO" : "08/04/2026 15:56:48",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    } ],
+    "DT_ATUALIZACAO" : "08/04/2026 15:56:39",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
